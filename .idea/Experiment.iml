@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Simplified" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Simplified/Algorithm2Evaluate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Simplified/ComparedAlgorithms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Simplified/FairnessEvaluate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Simplified/ScalabilityEvaluatePlatform" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Simplified/ScalabilityEvaluateWorker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Simplified/FlexibilityEvaluateLeave" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Simplified/FlexibilityEvaluateJoin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Simplified/CalculateTotalResult" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Testbed" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Testbed/Algorithm2Evaluate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Testbed/CalculateTotalResult" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Testbed/ComparedAlgorithms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Testbed/FairnessEvaluate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Testbed/FlexibilityEvaluateJoin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Testbed/FlexibilityEvaluateLeave" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Testbed/ScalabilityEvaluatePlatform" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Testbed/ScalabilityEvaluateWorker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Testbed/0-FigureDraw" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Testbed/TestbedData" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Testbed/FlexibilityEvaluateLeave/TestbedData" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Testbed/FlexibilityEvaluateLeave/ComparedAlgorithms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Testbed/FlexibilityEvaluateJoin/TestbedData" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Testbed/FlexibilityEvaluateJoin/ComparedAlgorithms" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7 (Locus) (5)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
